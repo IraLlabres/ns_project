@@ -63,7 +63,7 @@ $totalstudents=$query1->rowCount();
 ?>
 
                                             <span class="number counter"><?php echo htmlentities($totalstudents);?></span>
-                                            <span class="name">Regd Users</span>
+                                            <span class="name">Registered Students</span>
                                             <span class="bg-icon"><i class="fa fa-users"></i></span>
                                         </a>
                                         <!-- /.dashboard-stat -->
